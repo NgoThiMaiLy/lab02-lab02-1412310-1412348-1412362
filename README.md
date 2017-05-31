@@ -3,7 +3,7 @@
 **Name of your app** là một bài tập 2 tại môn ATBMHTTT. Bài tập yêu cầu sinh viên tạo cơ sở dữ liệu, mã hóa theo các yêu cầu.
 
 Thành viên:
-* [ ] **MSSV1** Tên sinh viên 1 (tên tài khoản github)
+* [x] **1412310** Ngô Thị Mai Lý (NgoThiMaiLy)
 * [ ] **MSSV2** Tên sinh viên 2 (tên tài khoản github)
 * [ ] **MSSV3** Tên sinh viên 2 (tên tài khoản github)
 
@@ -25,7 +25,7 @@ Yêu cầu **bắt buộc**
 * [ ] Giải pháp mã hóa thông tin lương để chỉ nhân viên được phép xem lương của mình. (**MSSV**)
 * [ ] Xây dựng giải pháp để nhân viên và trưởng dự án xác định thông tin lương có đúng là do trưởng dự án thiết lập không. (**MSSV**)
 * [ ] Chỉ trưởng dự án được phép xem và cập nhật thông tin chi tiêu của dự án của mình. (**MSSV**)
-* [ ] Xây dựng giải pháp cho phép trưởng dự án mã hóa thông tin chi tiêu của dự án của mình và chỉ cho phép một số người dùng nhất định giải mã thông tin này. (**MSSV**)
+* [x] Xây dựng giải pháp cho phép trưởng dự án mã hóa thông tin chi tiêu của dự án của mình và chỉ cho phép một số người dùng nhất định giải mã thông tin này. (**1412310**)
 
 Liệt kê các **yêu cầu nâng cao** đã thực hiện:
 * [ ] Chức năng 1
